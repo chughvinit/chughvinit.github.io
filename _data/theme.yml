@@ -14,7 +14,7 @@ social:
   facebook: vinit.chugh.37
   #tumblr: animalygifs
   linkedin: vinit-chugh-6557b78b
-  gplus: 110552447039675960964
+  #gplus: 110552447039675960964
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
   #flickr: johndoe
 
@@ -30,4 +30,4 @@ google_analytics_key: UA-xxxx-x
 show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
-show_atom_feed: true
+show_atom_feed: false

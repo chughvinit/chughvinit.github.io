@@ -4,12 +4,7 @@ title: GMR based Heart Rate Monitor
 categories:
 - blog
 ---
-This was my first project which started in summer of second year, and got me interested in the field of Biomedical Instrumentation.
-In this project I worked in a team of two, under guidance of Prof. Anoop C.S. towards developement
-of a simple Heart-rate (HR) monitor using Giant Magneto Resistance (GMR) sensor.
-We started this project by characterising the behaviour of GMR sensor under different amplitudes of magnetic field using simple electro-magnets and developed a real-time, non-invasive HR monitor.
-I mainly worked on developement of analog conditioning circuit to obtain an amplified and noise-free plethysmographic signal from differential output of MPG sensor (NVE AA004-02).
-We validated accuracy of developed prototype in measurement of HR by testing on 26 voulnteer and published our findings in proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society [(EMBC)](#).
+This was my first project which started in summer of second year, and got me interested in the field of Biomedical Instrumentation. In this project I worked in a team of two, under guidance of [Prof. Anoop C.S.](https://www.iist.ac.in/avionics/anoop.cs) towards developement of a simple Heart-rate (HR) monitor using Giant Magneto Resistance (GMR) sensor. We started this project by characterising the behaviour of GMR sensor under different amplitudes of magnetic field using simple electro-magnets and developed a real-time, non-invasive HR monitor. I mainly worked on developement of analog conditioning circuit to obtain an amplified and noise-free plethysmographic signal from differential output of MPG sensor **(NVE AA004-02)**. We validated accuracy of developed prototype in measurement of HR by testing on 26 voulnteer and published our findings in proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society [(EMBC)](#) and can be found [here](https://ieeexplore.ieee.org/document/7591819).
 
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 

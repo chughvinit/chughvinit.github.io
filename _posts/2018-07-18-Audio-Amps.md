@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intra-chip communication developement for Smart Audio Amplifiers
+title: Intra-chip communication developement for Smart Audio-Amplifiers
 categories:
 - blog
 ---

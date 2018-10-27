@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GMR based Respiration Rate Monitor
+title: GMR based Heart Rate Monitor
 categories:
 - blog
 ---

@@ -6,7 +6,7 @@ title: Projects
 <div id="home">
   <h2><i class="fa fa-bookmark"></i> About Me </h2>
   <ul id="blog-posts" class="posts">
-    {% for post in site.me %}
+    {% for post in {{site.url}/me/} %}
       <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>

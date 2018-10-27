@@ -5,6 +5,8 @@ categories:
 - blog
 ---
 
+This is the current project that I am working on as a digital design engineer under mentoring of [Asif Farooqui](https://www.linkedin.com/in/asiffarooqui/) at Texas Instruments India.
+
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 

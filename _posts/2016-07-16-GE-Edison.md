@@ -5,6 +5,7 @@ categories:
 - blog
 ---
 
+<!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
 on it occupy trust fund. Umami whatever kitsch, locavore fingerstache Tumblr pork belly
@@ -42,3 +43,4 @@ class User < ActiveRecord::Base
 end
 
 {% endhighlight %}
+-->

@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-
+This was my Batchelor's Thesis Project for which I worked under guidance of [Prof. Amit Patra](http://www.iitkgp.ac.in/department/EE/faculty/ee-amit) and [Prof. Anoop C. S.](https://www.iist.ac.in/avionics/anoop.cs).
 
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 

@@ -7,7 +7,7 @@ categories:
 
 This is my current current area of focus, working as a digital design engineer at **Texas Instruments India** since July'17. I have been working under mentoring of [Asif Farooqui](https://www.linkedin.com/in/asiffarooqui/) to execute the same. I have executed in my capacity towards developement of 2 smart amplifier silicons.
 
-I have been Working in a team of 30 members for development of Ultra Low-Noise Smart Audio-amplifiers. My work involves development of digital modules for Interchip communications on multiple connected devices, and audio communication with speakers. For execution I have worked extensively with design languages like VHDL, Verilog and System Verilog. The work involves constantly understanding and mastering new tools like SPYGLASS, Conformal Constraint Designer, Jasper Gold and Simvision tools for better execution.
+I have been Working in a team of 30 members for development of Ultra Low-Noise Smart Audio-amplifiers. My work involves development of digital modules for Interchip communications on multiple connected devices, and audio communication with speakers. For execution of the same, I have worked extensively with design languages like VHDL, Verilog and System Verilog. MY work involves constantly learning and gain expertise in terms of both developing new skills as well as mastering new tools for better execution. My work has given me a good exposure of tools like Matlab, Octave, SPYGLASS, Conformal Constraint Designer, Jasper Gold and Simvision tools.
 
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 

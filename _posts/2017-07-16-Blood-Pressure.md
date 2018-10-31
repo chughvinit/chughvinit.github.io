@@ -11,7 +11,7 @@ I worked in a team of two people towards development of scheme based on Magneto-
 
 ###Action Shots
 ![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_BP/IMG_20170509_012926831_HDR.jpg)
-![Developed PCB with integrated microprocessor and Analog signal processing topology](https://github.com/chughvinit/chughvinit.github.io/blob/master/_BP/IMG_20170509_013351601.jpg)
+![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_BP/IMG_20170509_013351601.jpg)
 
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 

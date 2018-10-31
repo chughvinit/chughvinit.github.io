@@ -9,6 +9,10 @@ This project was an extension of the project aiming at Heart Rate (HR) monitor d
 
 I worked on signal processing in digital domain using Arduino-uno to give real-time estimation of Respiration Rate (RR) along with HR using Fast fourier Transform (FFT) implementation. A working prototype was developed and was verified alongside waveforms observed from standard air-flow meter. We performed accuracy testing of the prototype on 20 volunteers and found accuracy of upto 2 breadths per minute. The results of experimentation were published in proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society [(EMBC)](#) and can be accessed [here](https://ieeexplore.ieee.org/document/7591196).
 
+###Action Shots
+![]()
+![]()
+
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 

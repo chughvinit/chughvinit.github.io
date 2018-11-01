@@ -12,7 +12,7 @@ I worked on signal processing in digital domain using Arduino-uno to give real-t
 ### Action Shots
 ![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_RR/IMG_20160314_215650228.jpg)
 > A picture showcasing the waveform from developed prototype alongwith waveform from standard airflow meter.
---
+-
 ![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_RR/IMG_20181101_153400.jpg)
 > Designed PCB for the developed topology capable in measurement of HR and RR altogether.
 

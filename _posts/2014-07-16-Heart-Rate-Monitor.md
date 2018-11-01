@@ -31,7 +31,7 @@ chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
 
 ### Be subtle with it, man. You know what subtle means?
 
-VHS post-ironic cred **bespoke** banjo. Yr wayfarers literally gentrify, flexitarian fap 
+VHS post-ironic cred **bespoke** banjo. Wayfarers literally gentrify, flexitarian fap 
 dreamcatcher plaid cornhole Intelligentsia paleo. Beard try-hard direct trade, shabby chic 
 Helvetica `look ma, I can code`. Lo-fi American Apparel tattooed [Vice](#) tofu, yr vinyl. 
 Williamsburg butcher hella mumblecore fixie mlkshk, cliche wolf keytar mixtape kitsch banh mi 

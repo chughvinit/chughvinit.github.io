@@ -10,8 +10,10 @@ For this project, We worked towards developement of a real-time heart rate monit
 
 ### Action Shots
 ![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_HR/HR%20Setup.png)
+> Setup image of the developed topology for real-time Heart rate estimation.
+---
 ![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_HR/IMG_20181101_153456.jpg)
-
+> Picture of developed PCB for Heart rate estimation
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 

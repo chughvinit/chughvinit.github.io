@@ -11,7 +11,10 @@ I worked in a team of two people towards development of scheme based on Magneto-
 
 ###Action Shots
 ![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_BP/IMG_20170509_012926831_HDR.jpg)
+> Setup image capturing developed prototype alongwith android application and GMR waveforms
+---
 ![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_BP/IMG_20170509_013351601.jpg)
+> PCB with on-board microprocessor of the non-invasive topology aimed at Blood Pressure estimation.
 
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 

@@ -10,6 +10,7 @@ For this project, We worked towards developement of a real-time heart rate monit
 
 ### Action Shots
 ![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_HR/HR%20Setup.png)
+![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_HR/IMG_20181101_153456.jpg)
 
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr

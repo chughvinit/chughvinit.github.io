@@ -14,5 +14,5 @@ For this project, We worked towards developement of a real-time heart rate monit
 <img src="https://raw.githubusercontent.com/chughvinit/chughvinit.github.io/master/_HR/IMG_20181101_153456.jpg" alt="drawing" width="600px"/>
 > Setup image of the developed topology for real-time Heart rate estimation.
 ---
-![](/_HR/IMG_20181101_153456.jpg?raw=true)
+![](/_HR/IMG_20181101_153456.jpg)
 > Picture of developed PCB for Heart rate estimation.

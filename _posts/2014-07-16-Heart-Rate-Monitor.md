@@ -9,10 +9,10 @@ This was my first academic project which got me interested in the field of Biome
 For this project, We worked towards developement of a real-time heart rate monitor using Giant Magneto Resistance (GMR) sensor. We validated accuracy of developed prototype in measurement of HR by testing on 26 voulnteer and published our findings in proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society [(EMBC)](#) and can be accessed [here](https://ieeexplore.ieee.org/document/7591819).
 
 ### Action Shots
-<img src="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fwww.gettyimages.ie%2Fgi-resources%2Fimages%2FHomepage%2FHero%2FUK%2FCMS_Creative_164657191_Kingfisher.jpg&imgrefurl=https%3A%2F%2Fwww.gettyimages.ie%2F&docid=2ESR_bi_dYOFhM&tbnid=fiJ-HZc0KFC-WM%3A&vet=10ahUKEwiZo4KYyLPeAhUcknAKHR3sAvQQMwhtKAIwAg..i&w=1140&h=550&bih=703&biw=1440&q=image&ved=0ahUKEwiZo4KYyLPeAhUcknAKHR3sAvQQMwhtKAIwAg&iact=mrc&uact=8" width="100%"/>
+![](/_HR/IMG_20181101_153456.jpg)
 > Setup image of the developed topology for real-time Heart rate estimation.
 ---
-![](https://github.com/chughvinit/chughvinit.github.io/blob/master/_HR/IMG_20181101_153456.jpg)
+![](/_HR/IMG_20181101_153456.jpg)
 > Picture of developed PCB for Heart rate estimation.
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr

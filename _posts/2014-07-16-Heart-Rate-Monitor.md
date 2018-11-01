@@ -36,7 +36,7 @@ dreamcatcher plaid cornhole Intelligentsia paleo. Beard try-hard direct trade, s
 Helvetica `look ma, I can code`. Lo-fi American Apparel tattooed [Vice](#) tofu, yr vinyl. 
 Williamsburg butcher hella mumblecore fixie mlkshk, cliche wolf keytar mixtape kitsch banh mi 
 salvia. High Life Odd Future *chambray* kale chips hoodie, cray pop-up. Helvetica narwhal 
-iPhone try-hard jean shorts.
+iPhone try-hard jean short.
 
 > This is a quote from someone famous about productivity
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Non-invasive Blood Pressure estimation
+title: Non-intrusive Blood Pressure estimation
 categories:
 - blog
 ---

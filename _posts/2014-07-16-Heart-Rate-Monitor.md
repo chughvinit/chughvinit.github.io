@@ -13,7 +13,7 @@ For this project, We worked towards developement of a real-time heart rate monit
 > Setup image of the developed topology for real-time Heart rate estimation.
 ---
 
-<img src="https://github.com/chughvinit/chughvinit.github.io/blob/master/_HR/IMG_20181101_153456.jpg">
+<img src="https://github.com/chughvinit/chughvinit.github.io/blob/master/_HR/IMG_20181101_153456.jpg"/>
 > Picture of developed PCB for Heart rate estimation
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr

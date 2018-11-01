@@ -10,6 +10,7 @@ For this project, We worked towards developement of a real-time heart rate monit
 
 ### Action Shots
 ![](https://raw.githubusercontent.com/chughvinit/chughvinit.github.io/master/_HR/IMG_20181101_153456.jpg = 50x50)
+<img src="https://raw.githubusercontent.com/chughvinit/chughvinit.github.io/master/_HR/IMG_20181101_153456.jpg" alt="drawing" width="600px"/>
 > Setup image of the developed topology for real-time Heart rate estimation.
 ---
 ![](/_HR/IMG_20181101_153456.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blood Pressure estimation using non-invasive GMR sensor
+title: Non-invasive Blood Pressure estimation
 categories:
 - blog
 ---

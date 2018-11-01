@@ -9,7 +9,7 @@ This was my first academic project which got me interested in the field of Biome
 For this project, We worked towards developement of a real-time heart rate monitor using Giant Magneto Resistance (GMR) sensor. We validated accuracy of developed prototype in measurement of HR by testing on 26 voulnteer and published our findings in proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society [(EMBC)](#) and can be accessed [here](https://ieeexplore.ieee.org/document/7591819).
 
 ### Action Shots
-<img src="/_HR/HR%20Setup.png">
+<img src="/_HR/HR%20Setup.png"/>
 > Setup image of the developed topology for real-time Heart rate estimation.
 ---
 

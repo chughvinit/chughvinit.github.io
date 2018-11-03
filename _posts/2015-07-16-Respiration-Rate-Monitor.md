@@ -10,9 +10,9 @@ This was a short project aimed at development of a non-intrusive topology for Re
 I worked on signal processing in digital domain using Arduino-uno to give real-time estimation of Respiration Rate (RR) along with Heart Rate using Fast fourier Transform (FFT) implementation. A working prototype was developed and verified alongside waveforms observed from standard air-flow meter. We performed accuracy testing of the prototype on 20 volunteers. The results of experimentation were published in proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society [(EMBC)](#) and can be accessed [here](https://ieeexplore.ieee.org/document/7591196).
 
 ### Action Shots
-<img src="https://github.com/chughvinit/chughvinit.github.io/blob/master/_RR/IMG_20160314_215650228.jpg?raw=true" width="640px"/>
+<img src="https://github.com/chughvinit/chughvinit.github.io/blob/master/_RR/IMG_20160314_215650228.jpg?raw=true" width="100%"/>
 > A picture showcasing the waveform from developed prototype alongwith waveform from standard airflow meter.
 
 ---
-<img src="https://github.com/chughvinit/chughvinit.github.io/blob/master/_RR/IMG_20181101_153400.jpg?raw=true" width="640px"/>
+<img src="https://github.com/chughvinit/chughvinit.github.io/blob/master/_RR/IMG_20181101_153400.jpg?raw=true" width="100%"/>
 > Designed PCB for the developed topology capable in measurement of HR and RR altogether.

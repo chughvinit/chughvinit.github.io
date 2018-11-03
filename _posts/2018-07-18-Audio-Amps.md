@@ -5,9 +5,9 @@ categories:
 - blog
 ---
 
-This is my current area of focus, working as a Digital Design Engineer at **Texas Instruments India** since July'17. I have been working under mentoring of [Asif Farooqui](https://www.linkedin.com/in/asiffarooqui/) to execute the same. I have worked in my capacity towards developement of 2 smart amplifier silicons.
+This is my current area of focus, working as a Digital Design Engineer at **Texas Instruments India** since July'17. I have been working under mentoring of [Asif Farooqui](https://www.linkedin.com/in/asiffarooqui/) to execute the same. I have worked in my capacity towards development of 2 smart amplifier silicons.
 
-I have been working in a team of 30 members for development of **Ultra Low-Noise Smart Audio-amplifiers**. My work involves development of digital modules for Interchip communications on multiple connected devices, and audio communication with speakers. For execution of the same, I have worked extensively with design languages like VHDL, Verilog and System Verilog. My work involves constantly learning and gain expertise by developing new skills as well as mastering new tools for better execution and it has given me a good exposure of tools like Matlab, Octave, SPYGLASS, Conformal Constraint Designer, Jasper Gold and Simvision simulation tools.
+I have been working in a team of 30 members for development of **Ultra Low-Noise Smart Audio-amplifiers**. My work involves development of digital modules for Interchip communications on multiple connected devices, and audio communication with speakers. For execution of the same, I have worked extensively with design languages like VHDL, Verilog and Systemverilog. My work involves constantly learning and gain expertise by developing new skills as well as mastering new tools for better execution and it has given me a good exposure of tools like Matlab, Octave, SPYGLASS, Conformal Constraint Designer, Jasper Gold and Simvision simulation tools.
 
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 

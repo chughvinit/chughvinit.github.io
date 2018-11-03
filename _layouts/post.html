@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-
+<div class="four columns sidebar hideSidebar">
+    {% include sidebar.html %}
+</div>
+<div class="eleven columns sidebar">
 <p class="meta">
 <!--
   {{ page.date | date: "%B %d, %Y" }}
@@ -26,4 +29,5 @@ layout: default
     </li>
     {% endfor %}
   </ul>
+</div>
 </div>

@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Intra-chip communication interphase developement
+title: Intra-chip communication interface developement
 categories:
 - blog
 ---
 
-This is my current area of focus, working as a Digital Design Engineer at **Texas Instruments India** since July'17. I have been working under mentoring of [Asif Farooqui](https://www.linkedin.com/in/asiffarooqui/) to execute the same. I have worked in my capacity towards development of 2 smart amplifier silicons.
+This is my current area of focus, working as a Digital Design Engineer at **Texas Instruments India** since July'17. I have been working under mentoring of [Asif Farooqui](https://www.linkedin.com/in/asiffarooqui/) to execute the same. I have worked on [I2S IP](https://www.sparkfun.com/datasheets/BreakoutBoards/I2SBUS.pdf) and owned it for two successive generations in terms of specifications and design, which has resulted in development of 3 working smart amplifier silicons.
 
-I have been working in a team of 30 members for development of **Ultra Low-Noise Smart Audio-amplifiers**. My work involves development of digital modules for Interchip communications on multiple connected devices, and audio communication with speakers. For execution of the same, I have worked extensively with design languages like VHDL, Verilog and Systemverilog. My work involves constantly learning and gain expertise by developing new skills as well as mastering new tools for better execution and it has given me a good exposure of tools like Matlab, Octave, SPYGLASS, Conformal Constraint Designer, Jasper Gold and Simvision simulation tools.
+I have been working in a team of 30 members for development of **Ultra Low-Noise Smart Audio-amplifiers**. My work not only involves development of digital modules for multi-device communication but also requires me to have a broad system level understranding for execution. I have been working towards development of Mixed-Signal chip which demands for me to constantly interact with Analog, Digital, Firmware and Back-end support teams.
+
+I have worked extensively with design languages like VHDL, Verilog and Systemverilog. My work involves constantly learning and gain expertise by developing new skills as well as mastering new tools for better execution. It has given me a good exposure of tools like Matlab, Octave, SPYGLASS, Conformal Constraint Designer, Jasper Gold and Simvision simulation tools. I have also gained experience on Static Timing Analysis and Timing closure of digital IP's.
 
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 

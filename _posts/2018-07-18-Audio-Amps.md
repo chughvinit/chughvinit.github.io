@@ -22,7 +22,7 @@ on it occupy trust fund. Umami whatever kitsch, locavore fingerstache Tumblr por
 [keffiyeh](#). Chia Echo Park Pitchfork, Blue Bottle [hashtag](#) stumptown skateboard selvage 
 mixtape. Echo Park retro butcher banjo cardigan, seitan flannel Brooklyn paleo fixie 
 Truffaut. Forage mustache Thundercats next level disrupt. Bicycle rights forage tattooed
-chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
+chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub
 
 ---
 

@@ -5,7 +5,11 @@ categories:
 - blog
 ---
 
-This is my current area of focus, working as a Digital Design Engineer at **Texas Instruments India** since July'17. I have been working under mentoring of [Asif Farooqui](https://www.linkedin.com/in/asiffarooqui/) to execute the same. I have worked on [I2S IP](https://www.sparkfun.com/datasheets/BreakoutBoards/I2SBUS.pdf) and owned it for two successive generations in terms of specifications and design, which has resulted in development of 3 working smart amplifier silicons.
+My current area of focus as a Digital Design Engineer at **Texas Instruments India** is centered around [I2S IP](https://www.sparkfun.com/datasheets/BreakoutBoards/I2SBUS.pdf) for multi-device communication protocol development. I have been working under the mentorship of [Asif Farooqui](https://www.linkedin.com/in/asiffarooqui/). Having owned this IP for two successive generations in terms of specification and design, my work has resulted in development of 3 working smart amplifier silicons.
+
+<!--
+This is my current area of focus as a Digital Design Engineer at **Texas Instruments India**. I have been working under the mentorship of [Asif Farooqui](https://www.linkedin.com/in/asiffarooqui/). I have worked on [I2S IP](https://www.sparkfun.com/datasheets/BreakoutBoards/I2SBUS.pdf) and owned it for two successive generations in terms of specifications and design, which has resulted in development of 3 working smart amplifier silicons.
+-->
 
 I have been working in a team of 30 members for development of **Ultra Low-Noise Smart Audio-amplifiers**. My work not only involves development of digital modules for multi-device communication but also requires me to have a broad system level understranding for execution. I have been working towards development of Mixed-Signal chip which demands for me to constantly interact with Analog, Digital, Firmware and Back-end support teams.
 

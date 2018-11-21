@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: Publications 
 categories:
 - publications

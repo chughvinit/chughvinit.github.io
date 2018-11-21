@@ -26,7 +26,7 @@ title: Projects
   </div>
   <h2><i class="fa fa-bookmark"></i> Publications</h2>
   <ul id="pubs" class="posts">
-    {% for publication in site.Publications %}
+    {% for publication in site.categories.publications %}
       <li><span> &raquo;</span><a href={{ publication.url }}>{{ publication.title }}</a></li>
     {% endfor %}
   </ul>

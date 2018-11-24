@@ -13,7 +13,7 @@ This is my current area of focus as a Digital Design Engineer at **Texas Instrum
 
 I have been working in a team of 30 members for development of **Ultra Low-Noise Smart Audio-amplifiers**. My work not only involves development of digital modules for multi-device communication but also requires me to have a broad system level understranding for execution. I have been working towards development of Mixed-Signal chip which demands for me to constantly interact with Analog, Digital, Firmware and Back-end support teams.
 
-I have worked extensively with design languages like VHDL, Verilog and Systemverilog. My work involves constantly learning and gain expertise by developing new skills as well as mastering new tools for better execution. It has given me a good exposure of tools like Matlab, Octave, SPYGLASS, Conformal Constraint Designer, Jasper Gold and Simvision simulation tools. I have also gained experience on Static Timing Analysis and Timing closure of digital IP's.
+I have worked extensively with design languages like VHDL, Verilog and SystemVerilog. My work involves constantly learning and gain expertise by developing new skills as well as mastering new tools for better execution. It has given me a good exposure of tools like Matlab, Octave, SPYGLASS, Conformal Constraint Designer, Jasper Gold and Simvision simulation tools. I have also gained experience on Static Timing Analysis and Timing closure of digital IP's.
 
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 

@@ -15,6 +15,9 @@ I have been working in a team of 30 members for development of **Ultra Low-Noise
 
 I have worked extensively with design languages like VHDL, Verilog and SystemVerilog. My work involves constantly learning and gain expertise by developing new skills as well as mastering new tools for better execution. It has given me a good exposure of tools like Matlab, Octave, SPYGLASS, Conformal Constraint Designer, Jasper Gold and Simvision simulation tools. I have also gained experience on Static Timing Analysis and Timing closure of digital IP's.
 
+<img src="https://github.com/chughvinit/chughvinit.github.io/blob/master/_amplifier_ic/Amplifier_IC_pic.JPG?raw=true" width="100%"/>
+> Setup image capturing developed prototype alongwith android application and GMR waveforms
+
 <!--
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
